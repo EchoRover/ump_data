@@ -1,0 +1,92 @@
+[
+  {
+    "id": "test_001",
+    "public_image": "test/sats/test_001.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10528750_15"
+  },
+  {
+    "id": "test_002",
+    "public_image": "test/sats/test_002.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10078750_15"
+  },
+  {
+    "id": "test_003",
+    "public_image": "test/sats/test_003.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10678885_15"
+  },
+  {
+    "id": "test_004",
+    "public_image": "test/sats/test_004.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10678720_15"
+  },
+  {
+    "id": "test_005",
+    "public_image": "test/sats/test_005.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10378750_15"
+  },
+  {
+    "id": "test_006",
+    "public_image": "test/sats/test_006.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10078705_15"
+  },
+  {
+    "id": "test_007",
+    "public_image": "test/sats/test_007.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10378795_15"
+  },
+  {
+    "id": "test_008",
+    "public_image": "test/sats/test_008.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10528675_15"
+  },
+  {
+    "id": "test_009",
+    "public_image": "test/sats/test_009.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10828645_15"
+  },
+  {
+    "id": "test_010",
+    "public_image": "test/sats/test_010.tiff",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "source_id": "10078660_15"
+  }
+]

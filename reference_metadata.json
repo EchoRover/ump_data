@@ -1,0 +1,952 @@
+[
+  {
+    "id": "train_001",
+    "source_id": "10828675_15",
+    "image": "reference/sats/train_001.tiff",
+    "map": "reference/maps/train_001_map.tiff",
+    "ideal_solution": "reference/solutions/train_001_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      527,
+      914
+    ],
+    "goal": [
+      300,
+      1497
+    ]
+  },
+  {
+    "id": "train_002",
+    "source_id": "10828690_15",
+    "image": "reference/sats/train_002.tiff",
+    "map": "reference/maps/train_002_map.tiff",
+    "ideal_solution": "reference/solutions/train_002_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      751,
+      142
+    ],
+    "goal": [
+      1134,
+      1004
+    ]
+  },
+  {
+    "id": "train_003",
+    "source_id": "10678690_15",
+    "image": "reference/sats/train_003.tiff",
+    "map": "reference/maps/train_003_map.tiff",
+    "ideal_solution": "reference/solutions/train_003_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      656,
+      636
+    ],
+    "goal": [
+      662,
+      1429
+    ]
+  },
+  {
+    "id": "train_004",
+    "source_id": "10378735_15",
+    "image": "reference/sats/train_004.tiff",
+    "map": "reference/maps/train_004_map.tiff",
+    "ideal_solution": "reference/solutions/train_004_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1418,
+      854
+    ],
+    "goal": [
+      1343,
+      1271
+    ]
+  },
+  {
+    "id": "train_005",
+    "source_id": "10828810_15",
+    "image": "reference/sats/train_005.tiff",
+    "map": "reference/maps/train_005_map.tiff",
+    "ideal_solution": "reference/solutions/train_005_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      781,
+      1268
+    ],
+    "goal": [
+      588,
+      103
+    ]
+  },
+  {
+    "id": "train_006",
+    "source_id": "10228780_15",
+    "image": "reference/sats/train_006.tiff",
+    "map": "reference/maps/train_006_map.tiff",
+    "ideal_solution": "reference/solutions/train_006_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      699,
+      1091
+    ],
+    "goal": [
+      1380,
+      546
+    ]
+  },
+  {
+    "id": "train_007",
+    "source_id": "10678705_15",
+    "image": "reference/sats/train_007.tiff",
+    "map": "reference/maps/train_007_map.tiff",
+    "ideal_solution": "reference/solutions/train_007_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      338,
+      157
+    ],
+    "goal": [
+      308,
+      691
+    ]
+  },
+  {
+    "id": "train_008",
+    "source_id": "10678795_15",
+    "image": "reference/sats/train_008.tiff",
+    "map": "reference/maps/train_008_map.tiff",
+    "ideal_solution": "reference/solutions/train_008_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1255,
+      549
+    ],
+    "goal": [
+      463,
+      859
+    ]
+  },
+  {
+    "id": "train_009",
+    "source_id": "10378720_15",
+    "image": "reference/sats/train_009.tiff",
+    "map": "reference/maps/train_009_map.tiff",
+    "ideal_solution": "reference/solutions/train_009_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      306,
+      1198
+    ],
+    "goal": [
+      124,
+      729
+    ]
+  },
+  {
+    "id": "train_010",
+    "source_id": "10378660_15",
+    "image": "reference/sats/train_010.tiff",
+    "map": "reference/maps/train_010_map.tiff",
+    "ideal_solution": "reference/solutions/train_010_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      0,
+      891
+    ],
+    "goal": [
+      332,
+      1029
+    ]
+  },
+  {
+    "id": "train_011",
+    "source_id": "10528780_15",
+    "image": "reference/sats/train_011.tiff",
+    "map": "reference/maps/train_011_map.tiff",
+    "ideal_solution": "reference/solutions/train_011_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1007,
+      651
+    ],
+    "goal": [
+      786,
+      34
+    ]
+  },
+  {
+    "id": "train_012",
+    "source_id": "10228795_15",
+    "image": "reference/sats/train_012.tiff",
+    "map": "reference/maps/train_012_map.tiff",
+    "ideal_solution": "reference/solutions/train_012_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      12,
+      697
+    ],
+    "goal": [
+      520,
+      430
+    ]
+  },
+  {
+    "id": "train_013",
+    "source_id": "10678870_15",
+    "image": "reference/sats/train_013.tiff",
+    "map": "reference/maps/train_013_map.tiff",
+    "ideal_solution": "reference/solutions/train_013_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1303,
+      1229
+    ],
+    "goal": [
+      361,
+      1394
+    ]
+  },
+  {
+    "id": "train_014",
+    "source_id": "10528690_15",
+    "image": "reference/sats/train_014.tiff",
+    "map": "reference/maps/train_014_map.tiff",
+    "ideal_solution": "reference/solutions/train_014_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1068,
+      337
+    ],
+    "goal": [
+      392,
+      17
+    ]
+  },
+  {
+    "id": "train_015",
+    "source_id": "10828780_15",
+    "image": "reference/sats/train_015.tiff",
+    "map": "reference/maps/train_015_map.tiff",
+    "ideal_solution": "reference/solutions/train_015_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      923,
+      915
+    ],
+    "goal": [
+      618,
+      1411
+    ]
+  },
+  {
+    "id": "train_016",
+    "source_id": "10228735_15",
+    "image": "reference/sats/train_016.tiff",
+    "map": "reference/maps/train_016_map.tiff",
+    "ideal_solution": "reference/solutions/train_016_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1111,
+      1247
+    ],
+    "goal": [
+      692,
+      194
+    ]
+  },
+  {
+    "id": "train_017",
+    "source_id": "10828750_15",
+    "image": "reference/sats/train_017.tiff",
+    "map": "reference/maps/train_017_map.tiff",
+    "ideal_solution": "reference/solutions/train_017_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1062,
+      943
+    ],
+    "goal": [
+      1047,
+      1367
+    ]
+  },
+  {
+    "id": "train_018",
+    "source_id": "10228675_15",
+    "image": "reference/sats/train_018.tiff",
+    "map": "reference/maps/train_018_map.tiff",
+    "ideal_solution": "reference/solutions/train_018_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1189,
+      86
+    ],
+    "goal": [
+      1027,
+      1060
+    ]
+  },
+  {
+    "id": "train_019",
+    "source_id": "10078690_15",
+    "image": "reference/sats/train_019.tiff",
+    "map": "reference/maps/train_019_map.tiff",
+    "ideal_solution": "reference/solutions/train_019_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      665,
+      1015
+    ],
+    "goal": [
+      1042,
+      1167
+    ]
+  },
+  {
+    "id": "train_020",
+    "source_id": "10528660_15",
+    "image": "reference/sats/train_020.tiff",
+    "map": "reference/maps/train_020_map.tiff",
+    "ideal_solution": "reference/solutions/train_020_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      766,
+      98
+    ],
+    "goal": [
+      569,
+      610
+    ]
+  },
+  {
+    "id": "train_021",
+    "source_id": "10378705_15",
+    "image": "reference/sats/train_021.tiff",
+    "map": "reference/maps/train_021_map.tiff",
+    "ideal_solution": "reference/solutions/train_021_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1241,
+      649
+    ],
+    "goal": [
+      1056,
+      1492
+    ]
+  },
+  {
+    "id": "train_022",
+    "source_id": "10678735_15",
+    "image": "reference/sats/train_022.tiff",
+    "map": "reference/maps/train_022_map.tiff",
+    "ideal_solution": "reference/solutions/train_022_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1202,
+      315
+    ],
+    "goal": [
+      711,
+      1295
+    ]
+  },
+  {
+    "id": "train_023",
+    "source_id": "10528765_15",
+    "image": "reference/sats/train_023.tiff",
+    "map": "reference/maps/train_023_map.tiff",
+    "ideal_solution": "reference/solutions/train_023_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      38,
+      282
+    ],
+    "goal": [
+      64,
+      948
+    ]
+  },
+  {
+    "id": "train_024",
+    "source_id": "10078735_15",
+    "image": "reference/sats/train_024.tiff",
+    "map": "reference/maps/train_024_map.tiff",
+    "ideal_solution": "reference/solutions/train_024_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      671,
+      100
+    ],
+    "goal": [
+      223,
+      408
+    ]
+  },
+  {
+    "id": "train_025",
+    "source_id": "10678765_15",
+    "image": "reference/sats/train_025.tiff",
+    "map": "reference/maps/train_025_map.tiff",
+    "ideal_solution": "reference/solutions/train_025_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      394,
+      1096
+    ],
+    "goal": [
+      889,
+      92
+    ]
+  },
+  {
+    "id": "train_026",
+    "source_id": "10528735_15",
+    "image": "reference/sats/train_026.tiff",
+    "map": "reference/maps/train_026_map.tiff",
+    "ideal_solution": "reference/solutions/train_026_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1163,
+      1027
+    ],
+    "goal": [
+      519,
+      360
+    ]
+  },
+  {
+    "id": "train_027",
+    "source_id": "10078675_15",
+    "image": "reference/sats/train_027.tiff",
+    "map": "reference/maps/train_027_map.tiff",
+    "ideal_solution": "reference/solutions/train_027_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      294,
+      1008
+    ],
+    "goal": [
+      736,
+      480
+    ]
+  },
+  {
+    "id": "train_028",
+    "source_id": "10528720_15",
+    "image": "reference/sats/train_028.tiff",
+    "map": "reference/maps/train_028_map.tiff",
+    "ideal_solution": "reference/solutions/train_028_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      475,
+      1030
+    ],
+    "goal": [
+      1498,
+      967
+    ]
+  },
+  {
+    "id": "train_029",
+    "source_id": "10378675_15",
+    "image": "reference/sats/train_029.tiff",
+    "map": "reference/maps/train_029_map.tiff",
+    "ideal_solution": "reference/solutions/train_029_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1150,
+      358
+    ],
+    "goal": [
+      728,
+      554
+    ]
+  },
+  {
+    "id": "train_030",
+    "source_id": "10228705_15",
+    "image": "reference/sats/train_030.tiff",
+    "map": "reference/maps/train_030_map.tiff",
+    "ideal_solution": "reference/solutions/train_030_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      798,
+      1039
+    ],
+    "goal": [
+      1467,
+      706
+    ]
+  },
+  {
+    "id": "train_031",
+    "source_id": "10378765_15",
+    "image": "reference/sats/train_031.tiff",
+    "map": "reference/maps/train_031_map.tiff",
+    "ideal_solution": "reference/solutions/train_031_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      457,
+      245
+    ],
+    "goal": [
+      1090,
+      1303
+    ]
+  },
+  {
+    "id": "train_032",
+    "source_id": "10828765_15",
+    "image": "reference/sats/train_032.tiff",
+    "map": "reference/maps/train_032_map.tiff",
+    "ideal_solution": "reference/solutions/train_032_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      773,
+      783
+    ],
+    "goal": [
+      236,
+      521
+    ]
+  },
+  {
+    "id": "train_033",
+    "source_id": "10228750_15",
+    "image": "reference/sats/train_033.tiff",
+    "map": "reference/maps/train_033_map.tiff",
+    "ideal_solution": "reference/solutions/train_033_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      972,
+      1385
+    ],
+    "goal": [
+      1348,
+      625
+    ]
+  },
+  {
+    "id": "train_034",
+    "source_id": "10678780_15",
+    "image": "reference/sats/train_034.tiff",
+    "map": "reference/maps/train_034_map.tiff",
+    "ideal_solution": "reference/solutions/train_034_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      53,
+      1129
+    ],
+    "goal": [
+      668,
+      613
+    ]
+  },
+  {
+    "id": "train_035",
+    "source_id": "10228765_15",
+    "image": "reference/sats/train_035.tiff",
+    "map": "reference/maps/train_035_map.tiff",
+    "ideal_solution": "reference/solutions/train_035_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1152,
+      1273
+    ],
+    "goal": [
+      825,
+      853
+    ]
+  },
+  {
+    "id": "train_036",
+    "source_id": "10828735_15",
+    "image": "reference/sats/train_036.tiff",
+    "map": "reference/maps/train_036_map.tiff",
+    "ideal_solution": "reference/solutions/train_036_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      978,
+      130
+    ],
+    "goal": [
+      1301,
+      1412
+    ]
+  },
+  {
+    "id": "train_037",
+    "source_id": "10828795_15",
+    "image": "reference/sats/train_037.tiff",
+    "map": "reference/maps/train_037_map.tiff",
+    "ideal_solution": "reference/solutions/train_037_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1282,
+      529
+    ],
+    "goal": [
+      204,
+      582
+    ]
+  },
+  {
+    "id": "train_038",
+    "source_id": "10228720_15",
+    "image": "reference/sats/train_038.tiff",
+    "map": "reference/maps/train_038_map.tiff",
+    "ideal_solution": "reference/solutions/train_038_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      675,
+      221
+    ],
+    "goal": [
+      1085,
+      1127
+    ]
+  },
+  {
+    "id": "train_039",
+    "source_id": "10378690_15",
+    "image": "reference/sats/train_039.tiff",
+    "map": "reference/maps/train_039_map.tiff",
+    "ideal_solution": "reference/solutions/train_039_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1410,
+      815
+    ],
+    "goal": [
+      653,
+      369
+    ]
+  },
+  {
+    "id": "train_040",
+    "source_id": "10678660_15",
+    "image": "reference/sats/train_040.tiff",
+    "map": "reference/maps/train_040_map.tiff",
+    "ideal_solution": "reference/solutions/train_040_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      447,
+      353
+    ],
+    "goal": [
+      1388,
+      395
+    ]
+  },
+  {
+    "id": "train_041",
+    "source_id": "10228660_15",
+    "image": "reference/sats/train_041.tiff",
+    "map": "reference/maps/train_041_map.tiff",
+    "ideal_solution": "reference/solutions/train_041_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      603,
+      332
+    ],
+    "goal": [
+      380,
+      775
+    ]
+  },
+  {
+    "id": "train_042",
+    "source_id": "10078720_15",
+    "image": "reference/sats/train_042.tiff",
+    "map": "reference/maps/train_042_map.tiff",
+    "ideal_solution": "reference/solutions/train_042_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      887,
+      431
+    ],
+    "goal": [
+      493,
+      1385
+    ]
+  },
+  {
+    "id": "train_043",
+    "source_id": "10528705_15",
+    "image": "reference/sats/train_043.tiff",
+    "map": "reference/maps/train_043_map.tiff",
+    "ideal_solution": "reference/solutions/train_043_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      663,
+      378
+    ],
+    "goal": [
+      464,
+      1210
+    ]
+  },
+  {
+    "id": "train_044",
+    "source_id": "10678810_15",
+    "image": "reference/sats/train_044.tiff",
+    "map": "reference/maps/train_044_map.tiff",
+    "ideal_solution": "reference/solutions/train_044_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1147,
+      818
+    ],
+    "goal": [
+      1165,
+      1389
+    ]
+  },
+  {
+    "id": "train_045",
+    "source_id": "10678675_15",
+    "image": "reference/sats/train_045.tiff",
+    "map": "reference/maps/train_045_map.tiff",
+    "ideal_solution": "reference/solutions/train_045_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      133,
+      285
+    ],
+    "goal": [
+      640,
+      500
+    ]
+  },
+  {
+    "id": "train_046",
+    "source_id": "10828705_15",
+    "image": "reference/sats/train_046.tiff",
+    "map": "reference/maps/train_046_map.tiff",
+    "ideal_solution": "reference/solutions/train_046_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      485,
+      1446
+    ],
+    "goal": [
+      485,
+      1011
+    ]
+  },
+  {
+    "id": "train_047",
+    "source_id": "10678825_15",
+    "image": "reference/sats/train_047.tiff",
+    "map": "reference/maps/train_047_map.tiff",
+    "ideal_solution": "reference/solutions/train_047_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      991,
+      437
+    ],
+    "goal": [
+      309,
+      0
+    ]
+  },
+  {
+    "id": "train_048",
+    "source_id": "10678750_15",
+    "image": "reference/sats/train_048.tiff",
+    "map": "reference/maps/train_048_map.tiff",
+    "ideal_solution": "reference/solutions/train_048_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      590,
+      433
+    ],
+    "goal": [
+      1279,
+      1431
+    ]
+  },
+  {
+    "id": "train_049",
+    "source_id": "10528795_15",
+    "image": "reference/sats/train_049.tiff",
+    "map": "reference/maps/train_049_map.tiff",
+    "ideal_solution": "reference/solutions/train_049_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      1053,
+      857
+    ],
+    "goal": [
+      1423,
+      1111
+    ]
+  },
+  {
+    "id": "train_050",
+    "source_id": "10828660_15",
+    "image": "reference/sats/train_050.tiff",
+    "map": "reference/maps/train_050_map.tiff",
+    "ideal_solution": "reference/solutions/train_050_solution.json",
+    "image_size": [
+      1500,
+      1500
+    ],
+    "start": [
+      379,
+      520
+    ],
+    "goal": [
+      111,
+      1420
+    ]
+  }
+]
