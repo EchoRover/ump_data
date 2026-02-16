@@ -3,7 +3,7 @@
 ## Overview
 Participants must produce road-constrained pixel paths between mission start and goal points on high-resolution aerial TIFF images. The goal is to submit plausible on-road paths (pixel coordinates) for each test image; a supplied evaluator scores submissions by length and off-road violations.
 
-## Dataset layout (repo root `data_raw/`)
+## Dataset layout
 - `reference/` — training/reference data
   - `sats/` — satellite TIFFs (native resolution)
   - `maps/` — organizer-provided road masks (reference)
@@ -53,12 +53,6 @@ Tips:
 1. For each test TIFF in `test/sats/`, compute a path (list of `[x,y]` pixel coordinates).
 2. Create one JSON object per test image following the schema above.
 3. Combine objects into a single JSON array (or provide one JSON file per test if required by an external leaderboard).
-
-Example command (Python sketch):
-
-```bash
-python make_submission.py --input-dir test/sats --output submission.json
-```
 
 ## Reference and contact
 - Training solutions: [reference/solutions](reference/solutions)
