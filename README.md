@@ -54,5 +54,4 @@ Tips:
 3. Combine objects into a single JSON array (or provide one JSON file per test if required by an external leaderboard).
 
 ## Reference and contact
-- Training solutions: [reference/solutions](reference/solutions)
 - If you have questions open an issue on the project GitHub: https://github.com/SamyakSS83/ump_data
