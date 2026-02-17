@@ -10,7 +10,6 @@ Participants must produce road-constrained pixel paths between mission start and
   - `solutions/` — example solution JSONs (50 items)
 - `test/` — test inputs
   - `sats/` — test satellite TIFFs (10 items: `test_001.tiff` → `test_010.tiff`)
-- `organizers/` — private assets (hidden missions & official solutions)
 
 ## Mission input
 - Satellite image: single RGB TIFF at native resolution.
